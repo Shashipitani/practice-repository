@@ -1,0 +1,2 @@
+ok let's write the content for chapter1 in this file.THose who read this file will surely have to complete this book otherwise they are going to face severe consequences.So,make yourself prepared before you are going to read the book.
+git
