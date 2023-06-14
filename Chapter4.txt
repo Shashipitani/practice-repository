@@ -1,0 +1,1 @@
+lets wrigte some code and run it in somewhere or anywhere you wish such concept is called platform independent java supports it 
